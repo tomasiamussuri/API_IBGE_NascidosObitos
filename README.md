@@ -1,2 +1,2 @@
-# DA_AnaliseExploratoria
-Analise exploratoria de dados utilizando Python, biblioteca Pandas e Google Colab.
+# API para recebimento de dados de Nascimentos e Óbitos do IBGE.
+
