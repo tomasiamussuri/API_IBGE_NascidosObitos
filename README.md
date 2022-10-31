@@ -8,3 +8,7 @@ Foram importadas as seguintes bibliotecas:
 * Matplotlib
 * Numpy
 
+# Gráfico
+<p style="text-align: center;">
+<img src="/img/ibge_grafico.jpg">
+</p>
